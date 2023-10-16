@@ -15,3 +15,5 @@ No Absen : 16
 |Week 3        |`'Operasi Citra Sederhana – Linier Brightness, Contrast,Inverse, Logarithmic Brightness, dan Grayscale Image'` |  https://github.com/bintangsholu21/PCVK/blob/main/Week3.ipynb                 
 |Week 4        | `'QUIZ 1'` |              
 |Week 5        | `'Operasi Aritmatika dan Logika - Gamma Correction, Image Depth, PSNR, Average Denoising, Image Masking'` | https://github.com/bintangsholu21/PCVK/blob/main/Week5.ipynb
+|Week 6        | `'Histogram, Histogram Equalization, Dithering'` | https://github.com/bintangsholu21/PCVK/blob/main/Week6.ipynb
+|Week 7        | `'Filter Spasial Low Pass Filter, High Pass Filter, Point Detection, Line Detection, Edge Detection'` | https://github.com/bintangsholu21/PCVK/blob/main/Week7.ipynb
