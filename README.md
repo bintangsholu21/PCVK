@@ -19,3 +19,4 @@ No Absen : 16
 |Week 7        | `'Filter Spasial Low Pass Filter, High Pass Filter, Point Detection, Line Detection, Edge Detection'` | https://github.com/bintangsholu21/PCVK/blob/main/Week7.ipynb
 |Week 8        | `'UTS'` | 
 |Week 9        | `'MODUL 9 – Morfologi'` | https://github.com/bintangsholu21/PCVK/blob/main/Week9.ipynb
+|Week 10        | `'MODUL 10 – Thresholding'` | https://github.com/bintangsholu21/PCVK/blob/main/Week10.ipynb
