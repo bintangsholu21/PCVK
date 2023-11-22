@@ -20,3 +20,7 @@ No Absen : 16
 |Week 8        | `'UTS'` | 
 |Week 9        | `'MODUL 9 – Morfologi'` | https://github.com/bintangsholu21/PCVK/blob/main/Week9.ipynb
 |Week 10        | `'MODUL 10 – Thresholding'` | https://github.com/bintangsholu21/PCVK/blob/main/Week10.ipynb
+|Week 11        | `'Modul 11 - Metode Deteksi Objek: Template Matching, Edge Detection, Corner Detection, Grid Detection, Contour Detection'` | https://github.com/bintangsholu21/PCVK/blob/main/Week11.ipynb
+|Week 12        | `'MODUL 12 – Feature Matching, Face Detection, Face Tracking'` | https://github.com/bintangsholu21/PCVK/blob/main/Week12.ipynb
+
+
